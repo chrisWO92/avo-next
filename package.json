@@ -36,6 +36,9 @@
     "semi": false,
     "singleQuote": true
   },
+  "engines": {
+    "node": "16.x"
+  },
   "husky": {
     "hooks": {
       "pre-commit": "pretty-quick --staged",
