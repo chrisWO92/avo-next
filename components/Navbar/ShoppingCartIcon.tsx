@@ -1,5 +1,5 @@
 import React from 'react'
-import { Basket } from '@components/SVGIcons'
+import { Basket } from '../SVGIcons'
 
 type ShoppingCartIconProps = {
   cartCount: number
